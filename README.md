@@ -6,7 +6,7 @@
 
 🏫 B.Tech @ Siksha ‘O’ Anusandhan (SOA)</br>
 💻 Specialized in Cyber Security & Digital Forensics</br>
-🌱 Currently learning: Flutter, Java, Blockchain & cute UI design✨</br>
+🌱 Currently learning: Flutter, Java, Blockchain & cute UI design ✨</br>
 🔭 Working on: School Bus Management App 🚌📲</br>
 👩‍💻 Love building with: MERN, React Native, Next.js & making all things pink haha 💗</br>
 👯‍♀️ Always ready to collaborate on GenAI + full-stack projects! 🧠⚡</br>
