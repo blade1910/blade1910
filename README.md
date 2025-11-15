@@ -11,7 +11,7 @@
 👩‍💻 Love building with: MERN, React Native, Next.js & making all things pink haha 💗</br>
 👯‍♀️ Always ready to collaborate on GenAI + full-stack projects! 🧠⚡</br>
 💬 Ask me about: Cybersecurity 🕵️‍♀️, MERN stack, or creating aesthetic UIs 🎨</br>
-📫 Reach me at: swayamsiddharaul@gmail.com 💌</br>
+📫 Reach me at: swayamsiddharaul07@gmail.com 💌</br>
 ⚡ Fun fact: I code with lo-fi beats and plushies by my side 🧸🎶</br>
 
 
