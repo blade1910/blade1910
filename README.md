@@ -8,7 +8,7 @@
 💻 Specialized in Cyber Security & Digital Forensics</br>
 🌱 Currently learning: Flutter, Java, Blockchain & cute UI design ✨</br>
 🔭 Working on: School Bus Management App 🚌📲</br>
-👩‍💻 Love building with: MERN, React Native, Next.js & making all things pink haha 💗</br>
+👩‍💻 Love building with: MERN, React Native, Next.js💗</br>
 👯‍♀️ Always ready to collaborate on GenAI + full-stack projects! 🧠⚡</br>
 💬 Ask me about: Cybersecurity 🕵️‍♀️, MERN stack, or creating aesthetic UIs 🎨</br>
 📫 Reach me at: swayamsiddharaul07@gmail.com 💌</br>
