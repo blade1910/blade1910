@@ -2,7 +2,7 @@
   <img src="https://github.com/blade1910/blade1910/blob/main/banner.png.jpeg" alt="Welcome Banner" width="100%" height="200px" />
 </p>
 
-   🌸 Hlo there!💕
+   🌸 Hlo there!!!💕
 
 🏫 B.Tech @ Siksha ‘O’ Anusandhan (SOA)</br>
 💻 Specialized in Cyber Security & Digital Forensics</br>
